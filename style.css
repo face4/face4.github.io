@@ -1,0 +1,32 @@
+body{
+    font-family: "Lucida Console";
+    margin: 15 0 15 0;
+}
+
+li{
+    margin-bottom: 10px;
+}
+
+.list{
+    color : blue;
+}
+
+header{
+    width: 100%;
+    padding: 15px 0 0 0;
+    margin: 0 auto;
+    text-align: center;
+    color: white;
+}
+
+row{
+    margin: 0;
+}
+
+header .headline{
+    font-size: 32px;
+}
+
+h2{
+    text-decoration: underline;
+}
